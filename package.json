@@ -1,0 +1,25 @@
+{
+  "name": "video-content-analytics-platform",
+  "version": "2.0.0",
+  "description": "Cross-platform video content analysis with engagement metrics, trend identification, and creator insights",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.1.0",
+    "crawlee": "^3.5.0",
+    "puppeteer": "^21.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.5.0",
+    "lodash": "^4.17.21"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "video-analytics",
+    "premium",
+    "enterprise",
+    "data-extraction"
+  ],
+  "author": "Premium Scraper Solutions",
+  "license": "MIT"
+}
